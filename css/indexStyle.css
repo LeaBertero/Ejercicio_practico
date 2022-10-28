@@ -1,0 +1,39 @@
+/* FUENTES DE GOOGLE */
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+/* ESTILOS H1 */
+h1{
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px violet;
+    /* padding: 0; */
+    padding-top: 30px;
+    margin: 0;
+    font-size: 70px;
+    background-color:teal;
+    /* display: flex; */
+}
+/* ESTILOS DE LISTA DESORDENADA */
+ul{
+    margin-left: 50px;
+    list-style: none;
+    font-size: 20px;
+    position: absolute;
+}
+
+.fondo{
+    background-size: cover;
+    background-image: url(/imagenes/FondoVet.jpg);
+    height: 600px;
+}
+
+p{
+    position: absolute;
+    margin-top: 130px;
+    font-size: 25px;
+    color:cadetblue;
+    margin-left: 20px;
+    /* box-shadow: 5px 5px 5px red; */
+}
+    

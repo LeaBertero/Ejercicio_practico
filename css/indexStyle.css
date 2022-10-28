@@ -43,9 +43,10 @@ p{
 /* imagenes consultorio */
 .img_consul{
     /* display:inline; */
-    margin-left: 150px;
+    /* margin-left: 150px; */
     position: absolute;
     /* margin-inline: 400px; */
     /* background-size: cover; */
+    
 }
     

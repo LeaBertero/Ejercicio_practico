@@ -1,39 +1,51 @@
 /* FUENTES DE GOOGLE */
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 
-/* ESTILOS H1 */
+/* Estilo, titulo = ""Veterinaria Cuki */
 h1{
     font-family: 'Shadows Into Light', cursive;
     text-align: center;
     text-transform: uppercase;
     text-shadow: 5px 5px 5px violet;
     /* padding: 0; */
-    padding-top: 30px;
+    padding-top: 20px;
     margin: 0;
-    font-size: 70px;
+    font-size: 80px;
     background-color:teal;
     /* display: flex; */
+    
 }
+
 /* ESTILOS DE LISTA DESORDENADA */
 ul{
     margin-left: 50px;
     list-style: none;
-    font-size: 20px;
+    font-size: 30px;
     position: absolute;
 }
-
+/* imagen de fondo del proyecto */
 .fondo{
     background-size: cover;
     background-image: url(/imagenes/FondoVet.jpg);
-    height: 600px;
+    height: 593px;
 }
 
+/* Primer parrafo (En la veterianaria Cuki....) */
 p{
     position: absolute;
-    margin-top: 130px;
+    margin-top: 170px;
     font-size: 25px;
     color:cadetblue;
-    margin-left: 20px;
-    /* box-shadow: 5px 5px 5px red; */
+    margin-left: 10px;
+    
+}
+
+/* imagenes consultorio */
+.img_consul{
+    /* display:inline; */
+    margin-left: 150px;
+    position: absolute;
+    /* margin-inline: 400px; */
+    /* background-size: cover; */
 }
     

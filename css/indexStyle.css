@@ -33,7 +33,7 @@ ul{
 .fondo{
     background-size: 100%;
     background-image: url(/imagenes/FondoVet.jpg);
-    height: 600px;
+    height: 1000px;
     /* opacity: 80%; */
 }
 
@@ -42,7 +42,7 @@ p{
     position: absolute;
     margin-top: 130px;
     font-size: 25px;
-    color: darkorchid;
+    color:steelblue;
     margin-left: 60px;
     /* box-shadow: 5px 5px 5px lightpink; */
     font-family: 'Shadows Into Light', cursive;
@@ -51,10 +51,10 @@ p{
 }
 
 /* imagenes consultorio */
-.Imgconsul{
+.Imgconsul_1{
     position: absolute;
     margin-left: 10px;
-    margin-top: -310px;
+    margin-top: -650px;
     /* flex-direction: row-reverse; */
     /* flex-wrap: nowrap; */
     /* align-content: center; */
@@ -63,6 +63,33 @@ p{
     opacity: 85%;
     /* justify-content: center; */
     
+}
+
+.Imgconsul_2{
+    position: absolute;
+    margin-left: 285px;
+    margin-top: -650px;
+    /* flex-direction: row-reverse; */
+    /* flex-wrap: nowrap; */
+    /* align-content: center; */
+    /* justify-content:space-evenly; */
+    /* align-self: flex-start; */
+    opacity: 85%;
+    /* justify-content: center; */
+
+}
+
+.Imgconsul_3{
+    position: absolute;
+    margin-left: 560px;
+    margin-top: -650px;
+    /* flex-direction: row-reverse; */
+    /* flex-wrap: nowrap; */
+    /* align-content: center; */
+    /* justify-content:space-evenly; */
+    /* align-self: flex-start; */
+    opacity: 85%;
+    /* justify-content: center; */
 }
     
     

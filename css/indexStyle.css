@@ -1,6 +1,12 @@
 /* FUENTES DE GOOGLE */
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+/* fondo del body */
+body{
+    background-color: lightyellow;
+}
 
 /* Estilo, titulo = Veterinaria Cuki */
 .Titulo_vet{
@@ -83,14 +89,37 @@ p{
     position: absolute;
     margin-left: 560px;
     margin-top: -650px;
-    /* flex-direction: row-reverse; */
-    /* flex-wrap: nowrap; */
-    /* align-content: center; */
-    /* justify-content:space-evenly; */
-    /* align-self: flex-start; */
     opacity: 85%;
-    /* justify-content: center; */
 }
+
+.Titulo_redes{
+    position: absolute;
+    margin-top: -210px;
+    /* text-align: center; */
+    margin-left: 540px;
+    font-size: 75px;
+    color:cadetblue;
+    background-color: lightyellow;
+    box-shadow: 5px 5px 5px lightslategray;
+    text-shadow: 5px 5px 5px lightslategrey;
+    /* margin:  0px; */
+    opacity: 60%;
+    font-family: Indie Flower, cursive;
+}
+
+.img_redes{
+    /* align-items: center; */
+    /* background-color: blue; */
+    position: absolute;
+    /* border-radius: 80px; */
+    /* height: 10px;
+    width: 10px; */
+    background-color: lightskyblue;
+    /* display:block; */
+    
+}
+    
+    
     
     
 

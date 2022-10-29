@@ -23,6 +23,7 @@ ul{
     font-size: 30px;
     position: absolute;
 }
+
 /* imagen de fondo del proyecto */
 .fondo{
     background-size: cover;
@@ -41,12 +42,14 @@ p{
 }
 
 /* imagenes consultorio */
-.img_consul{
-    /* display:inline; */
-    /* margin-left: 150px; */
+.Imgconsul{
     position: absolute;
-    /* margin-inline: 400px; */
-    /* background-size: cover; */
-    
+    margin-left: 10px;
+    margin-top: 280px;
 }
+    
+    
+
+    
+    
     

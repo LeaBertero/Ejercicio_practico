@@ -1,5 +1,6 @@
 /* FUENTES DE GOOGLE */
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 
 /* Estilo, titulo = Veterinaria Cuki */
 .Titulo_vet{
@@ -42,8 +43,10 @@ p{
     margin-top: 130px;
     font-size: 25px;
     color: darkorchid;
-    margin-left: 10px;
-    box-shadow: 5px 5px 5px lightpink;
+    margin-left: 60px;
+    /* box-shadow: 5px 5px 5px lightpink; */
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
     
 }
 

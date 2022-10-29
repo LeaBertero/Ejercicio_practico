@@ -13,17 +13,18 @@ body{
     font-family: 'Shadows Into Light', cursive;
     text-align: center;
     text-transform: uppercase;
-    text-shadow: 5px 5px 5px violet;
+    text-shadow: 5px 5px 5px cadetblue;
     /* padding-top: 20px; */
     /* margin: 0; */
-    /* margin-top: 2px; */
-    margin-top: 20px;
+    margin-top: 10px;
     font-size: 40px;
+    padding: 10px;
+    border: 0px;
     /* background-color:teal; */
     /* display:block; */
     /* display:flexbox; */
     /* padding-top: 10px; */
-    background-color: lightpink;
+    background-color:burlywood;
     
 }
 
@@ -60,7 +61,7 @@ p{
 .Imgconsul_1{
     position: absolute;
     margin-left: 10px;
-    margin-top: -650px;
+    margin-top: -600px;
     /* flex-direction: row-reverse; */
     /* flex-wrap: nowrap; */
     /* align-content: center; */
@@ -74,7 +75,7 @@ p{
 .Imgconsul_2{
     position: absolute;
     margin-left: 285px;
-    margin-top: -650px;
+    margin-top: -600px;
     /* flex-direction: row-reverse; */
     /* flex-wrap: nowrap; */
     /* align-content: center; */
@@ -88,7 +89,7 @@ p{
 .Imgconsul_3{
     position: absolute;
     margin-left: 560px;
-    margin-top: -650px;
+    margin-top: -600px;
     opacity: 85%;
 }
 
@@ -99,8 +100,8 @@ p{
     margin-left: 540px;
     font-size: 75px;
     color:cadetblue;
-    background-color: lightyellow;
-    box-shadow: 5px 5px 5px lightslategray;
+    /* background-color: lightyellow; */
+    /* box-shadow: 5px 5px 5px lightslategray; */
     text-shadow: 5px 5px 5px lightslategrey;
     /* margin:  0px; */
     opacity: 60%;
@@ -116,7 +117,24 @@ p{
     width: 10px; */
     background-color: lightskyblue;
     /* display:block; */
+    /* padding: 5px;
+    width: 40px; */
+    /* height: 40px; */
     
+}
+
+/* Titulo de servicios */
+.Titulo_servicios{
+    position: absolute;
+    font-size: 70px;
+    margin-top: 300px;
+    margin-left: 290px;
+    color:cadetblue;
+    text-shadow: 5px 5px 5px gray;
+    /* flex-flow: nowrap; */
+    font-family: Indie Flower, cursive;
+    /* background-color: lightyellow; */
+
 }
     
     

@@ -37,10 +37,14 @@ ul {
     text-align: center;
 }
 
-/* redes */
 .redes{
-   
+    text-align: center;
+    margin-top: 50px;
+    font-size: 80px;
+    text-shadow: 5px 5px 5px blueviolet;
+    font-family: 'Shadows Into Light', cursive;
 }
+
 
 
 

@@ -1,49 +1,53 @@
-/* Fuentes */
+/* enlaces de Fuentes */
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 
-/* inicio titulos de pagina */
+/* Estilo de titulo */
 .Titulo_vet{
-    font-size: 80px;
+    margin-top: 10px;
+    /* padding-top: 10px; */
+    font-size: 70px;
+    /* margin-left: 30px; */
     text-align: center;
     text-shadow: 5px 5px 5px blueviolet;
-    /* background-color:beige; */
     font-family: 'Shadows Into Light', cursive;
 }
 
-.servicios{
-    font-size: 80px;
-    text-align: center;
-    text-shadow: 5px 5px 5px blueviolet;
-    background-color:beige;
-    font-family: 'Shadows Into Light', cursive;
-}
-
-/* Fin titulos */
-
-/*inicio listas */
-ul {
-    list-style-type: none;
-    font-size: 20px;
-    text-align: left;
-    margin-left: 40px;
+.enlaces{
+    font-size: 18px;
     /* margin-top: 0px; */
-    /* padding-top: -550px; */
-}
-
-/* Parrafos */
-.parrafo{
+    padding: 0px;
     margin-left: 30px;
-    font-size: 20px;
-    text-align: center;
+    list-style: none;
 }
 
-.redes{
+body{
+    background-color: #ffe4c4;
+}
+
+/* diseño del pprimer parrafo */
+.parrafo{
     text-align: center;
-    margin-top: 50px;
-    font-size: 80px;
+    font-size: 20px;
+    
+}
+    
+.redes{
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    font-size: 70px;
+    text-shadow: 5px 5px 5px blueviolet;
+}
+
+.serv{
+    text-align: center;
     text-shadow: 5px 5px 5px blueviolet;
     font-family: 'Shadows Into Light', cursive;
+    font-size: 70px;
 }
+
+
+
+
 
 
 

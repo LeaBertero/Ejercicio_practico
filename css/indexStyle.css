@@ -34,7 +34,7 @@
 }
 
 body{
-    background-color: #ffe4c4;
+    background-image: linear-gradient(red, yellow);
 }
 
 /* diseño del pprimer parrafo */
@@ -59,6 +59,8 @@ body{
 .imagenes{
     margin-left: 320px;
     margin-top: 20px;
+    display:-webkit-flex;
+
 }
 
 .tit_redes{

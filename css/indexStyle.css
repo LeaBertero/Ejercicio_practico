@@ -16,6 +16,13 @@
     border-radius: 40px;
 }
 
+/* .transicion{
+  width: 100px;
+  height: 100px;
+  background: rgb(17, 0, 255);
+  transition: width 2s;
+} */
+
 .icons_redes{
     /* flex: 2cm; */
     margin-top: 30px;

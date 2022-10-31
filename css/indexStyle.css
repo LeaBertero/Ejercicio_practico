@@ -85,14 +85,17 @@ body{
 /* inicio diseño de parrafos */
 .parrafo1{
     text-align: center;
+    color: whitesmoke;
 }
 
 .parrafo2{
     text-align: center;
+    color: whitesmoke;
 }
 
-.parrafo1{
+.parrafo3{
     text-align: center;
+    color: whitesmoke;
 }
 /* Fin diseño de parrafos */
 

@@ -1,5 +1,6 @@
 /* enlaces de Fuentes */
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
 
 /* Estilo de titulo */
 .Tit_vet{
@@ -16,8 +17,8 @@
     border-radius: 40px;
 }
 
-
-.icons_redes{
+/* color de fondo y diseño para los iconos de las redes sociales */
+.fondo_redes{
     /* flex: 2cm; */
     margin-top: 30px;
     background-color: lightskyblue;
@@ -41,7 +42,7 @@ body{
 }
 
 /* diseño del pprimer parrafo */
-.parrafo{
+.primer_parrafo{
     text-align: center;
     font-size: 20px;
     
@@ -84,18 +85,21 @@ body{
 
 /* inicio diseño de parrafos */
 .parrafo1{
-    text-align: center;
+    text-align: left;
     color: whitesmoke;
+    margin-left: 70px;
 }
 
 .parrafo2{
-    text-align: center;
+    text-align: left;
     color: whitesmoke;
+    margin-left: 230px;
 }
 
 .parrafo3{
-    text-align: center;
+    text-align: left;
     color: whitesmoke;
+    margin-left: 270px;
 }
 /* Fin diseño de parrafos */
 
@@ -110,6 +114,32 @@ body{
     border-radius: 40px;
     margin-top: 30px;
 }
+
+.dire{
+    color: whitesmoke;
+    margin-top: 30px;
+    /* margin-left: 50px; */
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Raleway Dots', cursive;
+}
+
+/* diseño de iconos */
+.icono_fb{
+    height: 80px;
+    /* width: 80px; */
+    margin-left: 660px;
+    
+}
+
+.icono_ins{
+    height: 80px;
+}
+
+.icono_wp{
+    height: 80px;
+}
+
 
 
 

@@ -16,12 +16,6 @@
     border-radius: 40px;
 }
 
-/* .transicion{
-  width: 100px;
-  height: 100px;
-  background: rgb(17, 0, 255);
-  transition: width 2s;
-} */
 
 .icons_redes{
     /* flex: 2cm; */
@@ -41,7 +35,7 @@
 }
 
 body{
-    background-image: linear-gradient(red, yellow);
+    background-image: linear-gradient(rgb(233, 30, 216), rgb(132, 49, 180));
     /* background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); */
 
 }
@@ -65,12 +59,42 @@ body{
     border-radius: 40px;
 }
 
+/* inicio de las imagenes de los consultorios */
 .imagenes{
-    margin-left: 320px;
+    /* margin-left: 320px; */
     margin-top: 20px;
     display:-webkit-flex;
 
 }
+
+.imgconsul1{
+    margin-left: 70px;
+}
+
+.imgconsul2{
+    margin-left: 230px;
+}
+
+.imgconsul3{
+    margin-left: 270px;
+
+}
+
+/* fin de las imagenes de los consultorios */
+
+/* inicio diseño de parrafos */
+.parrafo1{
+    text-align: center;
+}
+
+.parrafo2{
+    text-align: center;
+}
+
+.parrafo1{
+    text-align: center;
+}
+/* Fin diseño de parrafos */
 
 .tit_redes{
     font-family: 'Shadows Into Light', cursive;

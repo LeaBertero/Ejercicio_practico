@@ -1,7 +1,7 @@
 /* enlaces de Fuentes */
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap');
 /* Estilo de titulo */
 .Tit_vet{
     margin-top: 10px;
@@ -149,6 +149,7 @@ body{
     animation-duration: 5s;
     text-align: center;
     font-size: 70px;
+    font-family: 'Love Ya Like A Sister', cursive;
 }
 
 @keyframes desplazamiento {

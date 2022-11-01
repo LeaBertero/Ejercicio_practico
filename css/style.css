@@ -140,6 +140,25 @@ body{
     height: 80px;
 }
 
+.cuadrado{
+    height: 100px;
+    width: 100%;
+    background-color:blueviolet;
+    /* background-image: linear-gradient(rgb(235, 35, 8), rgb(26, 73, 134)); */
+    animation-name: desplazamiento;
+    animation-duration: 5s;
+    text-align: center;
+    font-size: 70px;
+}
+
+@keyframes desplazamiento {
+    0% {background-color: lightblue;}
+    25%{background-color: violet;}
+    50%{background-color: lightblue;}
+    70%{background-color: violet;}
+    100%{background-color: lightblue;}
+}
+
 
 
 
